@@ -36,8 +36,7 @@ By completing this project, you'll not only have a practical understanding of so
 In computer science, there are fundamental sorting algorithms that all developers should learn. In this number sorter project, you'll learn how to implement and visualize different sorting algorithms like bubble sort, selection sort, and insertion sort – all with JavaScript. 
 This project will help you understand the fundamental concepts behind these algorithms, and how you can apply them to sort numerical data in web applications. 
 
-<code>
-const bubbleSort = (array) => {
+<code>const bubbleSort = (array) => {
   const n = array.length;
   for (let i = 0; i < n; i++) {
     for (let j = 0; j < n - 1 - i; j++) {
@@ -53,5 +52,4 @@ const bubbleSort = (array) => {
 }
 
 const numbers = [5, 3, 8, 1, 2];
-console.log(bubbleSort(numbers)); // Output: [1, 2, 3, 5, 8]
-</code>
+console.log(bubbleSort(numbers)); // Output: [1, 2, 3, 5, 8]</code>
