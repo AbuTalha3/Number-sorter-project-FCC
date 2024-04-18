@@ -4,7 +4,7 @@ Number Sorter Project
 Overview
 In the field of computer science, understanding sorting algorithms is fundamental for any developer. This project focuses on implementing and visualizing different sorting algorithms using JavaScript. By working on this project, you'll gain a deeper understanding of algorithms such as bubble sort, selection sort, and insertion sort, and how they can be applied to sort numerical data in web applications.
 
-Project Goals
+# Project Goals
 Learn Sorting Algorithms: Understand the concepts and working principles of bubble sort, selection sort, and insertion sort.
 Implement Algorithms: Write JavaScript code to implement each sorting algorithm.
 Visualize Sorting Process: Create visualizations to demonstrate how each sorting algorithm rearranges data step by step.
@@ -12,7 +12,8 @@ Apply Algorithms to Numerical Data: Apply the sorting algorithms to sort numeric
 Gain Problem-Solving Skills: Improve problem-solving skills by analyzing and optimizing sorting algorithms for efficiency.
 Technologies Used
 JavaScript: Implementing sorting algorithms and logic.
-HTML/CSS: Creating the user interface and visualization components.
+# HTML/CSS:
+ Creating the user interface and visualization components.
 Web Development Tools: Use libraries or frameworks like D3.js for data visualization if needed.
 Version Control: Utilize Git for version control and collaboration.
 Project Structure
