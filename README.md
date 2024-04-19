@@ -22,7 +22,7 @@ Visualization Component: Develop a visual representation of the sorting process 
 User Interface: Create a user interface to input numerical data and trigger the sorting algorithms.
 Documentation: Write clear and concise documentation explaining the project, algorithms used, and how to run/test the application.
 Testing and Optimization: Test the sorting algorithms with various input sizes and optimize them for performance if necessary.
-Getting Started
+# Getting Started
 Clone the project repository from GitHub.
 Open the project directory and launch the index.html file in a web browser.
 Input numerical data and select a sorting algorithm to visualize the sorting process.
