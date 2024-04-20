@@ -1,7 +1,7 @@
 # Number-sorter-project-FCC
 
 Number Sorter Project
-Overview
+# Overview
 In the field of computer science, understanding sorting algorithms is fundamental for any developer. This project focuses on implementing and visualizing different sorting algorithms using JavaScript. By working on this project, you'll gain a deeper understanding of algorithms such as bubble sort, selection sort, and insertion sort, and how they can be applied to sort numerical data in web applications.
 
 # Project Goals
@@ -31,7 +31,7 @@ Resources
 Online tutorials and documentation on sorting algorithms.
 JavaScript libraries for data visualization (e.g., D3.js).
 Online platforms for practicing algorithms and data structures (e.g., LeetCode, Codecademy).
-Conclusion
+# Conclusion
 By completing this project, you'll not only have a practical understanding of sorting algorithms but also improve your problem-solving skills and gain valuable experience in web development. Have fun exploring and learning!
 In computer science, there are fundamental sorting algorithms that all developers should learn. In this number sorter project, you'll learn how to implement and visualize different sorting algorithms like bubble sort, selection sort, and insertion sort – all with JavaScript. 
 This project will help you understand the fundamental concepts behind these algorithms, and how you can apply them to sort numerical data in web applications. 
