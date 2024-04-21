@@ -16,7 +16,7 @@ JavaScript: Implementing sorting algorithms and logic.
  Creating the user interface and visualization components.
 Web Development Tools: Use libraries or frameworks like D3.js for data visualization if needed.
 Version Control: Utilize Git for version control and collaboration.
-Project Structure
+# Project Structure
 Sorting Algorithm Implementations: Write JavaScript functions for bubble sort, selection sort, and insertion sort.
 Visualization Component: Develop a visual representation of the sorting process using HTML/CSS and possibly D3.js.
 User Interface: Create a user interface to input numerical data and trigger the sorting algorithms.
@@ -27,7 +27,7 @@ Clone the project repository from GitHub.
 Open the project directory and launch the index.html file in a web browser.
 Input numerical data and select a sorting algorithm to visualize the sorting process.
 Observe the step-by-step sorting visualization and final sorted output.
-Resources
+# Resources
 Online tutorials and documentation on sorting algorithms.
 JavaScript libraries for data visualization (e.g., D3.js).
 Online platforms for practicing algorithms and data structures (e.g., LeetCode, Codecademy).
