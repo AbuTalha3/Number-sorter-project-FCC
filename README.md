@@ -8,7 +8,7 @@ In the field of computer science, understanding `sorting algorithms` is fundamen
 Learn 'Sorting Algorithms': Understand the concepts and working principles of bubble sort, selection sort, and insertion sort.
 Implement Algorithms: Write JavaScript code to implement each sorting algorithm.
 Visualize Sorting Process: Create visualizations to demonstrate how each `sorting algorithm` rearranges data step by step.
-Apply Algorithms to Numerical Data: Apply the sorting algorithms to sort numerical data within a web application.
+Apply Algorithms to Numerical Data: Apply the `sorting algorithms` to sort numerical data within a web application.
 Gain Problem-Solving Skills: Improve problem-solving skills by analyzing and optimizing sorting algorithms for efficiency.
 Technologies Used
 JavaScript: Implementing sorting algorithms and logic.
