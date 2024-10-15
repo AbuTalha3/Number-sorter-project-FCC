@@ -11,7 +11,7 @@ Visualize Sorting Process: Create visualizations to demonstrate how each `sortin
 Apply Algorithms to Numerical Data: Apply the `sorting algorithms` to sort numerical data within a web application.
 Gain Problem-Solving Skills: Improve problem-solving skills by analyzing and optimizing sorting algorithms for efficiency.
 Technologies Used
-JavaScript: Implementing sorting algorithms and logic.
+`JavaScript`: Implementing sorting algorithms and logic.
 # HTML/CSS:
  Creating the user interface and visualization components.
 Web Development Tools: Use libraries or frameworks like D3.js for data visualization if needed.
