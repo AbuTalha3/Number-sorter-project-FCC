@@ -52,4 +52,4 @@ This project will help you understand the fundamental concepts behind these algo
 }
 
 const numbers = [5, 3, 8, 1, 2];
-console.log(bubbleSort(numbers)); // Output: [1, 2, 3, 5, 8]</code>
+console.log(bubble sort(numbers)); // Output: [1, 2, 3, 5, 8]</code>
